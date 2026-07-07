@@ -7,7 +7,7 @@ const NotFound = () => {
     console.log(data)
 
   return (
-    <div>Page_NotFound {data.id} </div>
+    <div>Something wend wrong  <span>from not found page</span> {data.id} </div>
   )
 }
 
